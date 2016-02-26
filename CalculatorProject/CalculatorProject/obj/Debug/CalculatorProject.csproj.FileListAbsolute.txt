@@ -1,0 +1,9 @@
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\CalculatorProject\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\CalculatorProject\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\CalculatorProject\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\CalculatorProject\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.csprojResolveAssemblyReference.cache
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\CalculatorProject\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\CalculatorProject\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
+C:\Users\mouha\OneDrive\sharecode\CalculatorProject\CalculatorProject\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\mouha\OneDrive\sharecode\CalculatorProject\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\mouha\OneDrive\sharecode\CalculatorProject\CalculatorProject\CalculatorProject\obj\Debug\CalculatorProject.pdb
